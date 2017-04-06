@@ -1,23 +1,21 @@
 body {
-  background-color: ##163b77;
-  font-family: Arial;
+  background-color: #4e1fcc;
+  font-family: Times;
   font-weight: bolder;
-  font-size: 20px;
-  line-height: 1em;
-
-
+  font-size: 30px;
+  line-height: .5em
 
 }
 
 a, a:active, a:link, a:visited {
-  color: #dedee0;
+  background-color: rgba(255,255,255,0.4);;
   font-size: 14px;
   text-decoration-style: none;
 
 }
 
 a:hover {
-  background-color: #aaa;
+  background-color: #fff;
 
 }
 
@@ -81,11 +79,12 @@ input[type="password"]:focus {
   margin: 45px 0 0 110px;
   text-align: center;
   border-radius: 25px;
-  background-color: rgba(255,255,255,0.4);
-  border: 2px solid blue;
+  background-color: rgba(100,100,255,0.4);
+  border: 4px solid gold;
 }
 
 .btn:hover {
+  background-color: rgba(200,0,200,0.4);
   color: brown;
 
   box-shadow: inset 0 0 5px #000;
