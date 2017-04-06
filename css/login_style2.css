@@ -84,8 +84,6 @@ input[type="password"]:focus {
 }
 
 .rem {
-  margin: 5% 0 0 10px;
-  /*down 5% from top, 10px toward the left*/
   font-size: 12px;
 }
 
@@ -93,10 +91,6 @@ input[type="password"]:focus {
   width: 100%;
   font-size: 3em;
   /*3 times NORMAL size, is another type of sizing besides pix*/
-}
-
-.forgot a{
-  margin: 0 0 0 35%;
 }
 
 
