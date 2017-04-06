@@ -1,12 +1,22 @@
 body {
+  background-color: grey;
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  line-height: 2em;
+
 
 }
 
 a, a:active, a:link, a:visited {
+  color: black;
+  font-size: 18px;
+  text-decoration-style: dashed;
 
 }
 
 a:hover {
+  background-color: rgba(255,255,255,0.4);
 
 }
 
@@ -19,5 +29,5 @@ a:hover {
 }
 
 .form_header {
-  
+
 }
