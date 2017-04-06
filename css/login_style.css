@@ -9,7 +9,7 @@ body {
 }
 
 a, a:active, a:link, a:visited {
-  color: black;
+  color: #dedee0;
   font-size: 18px;
   text-decoration-style: dashed;
 
@@ -21,13 +21,29 @@ a:hover {
 }
 
 .container {
+  width: 100%;
+  height: 325px;
 
 }
 
 .login {
-
+  width: 525px;
+  height: 325px;
+  border: 2px solid #a1a1a1;
+  border-radius: 10px;
+  margin: 10% auto;
 }
 
 .form_header {
+  width: 100%;
+  height: 10%;
+  background-color: #dedee0;
+  border-bottom: 2px solid #a1a1a1;
+  text-align: center;
+  padding: 3% 0 0 0;
+  border-radius: 10px 10px 0 0;
+}
 
+form {
+  
 }
