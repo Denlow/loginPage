@@ -30,6 +30,7 @@ a:hover {
   width: 525px;
   height: 325px;
   border: 2px solid #a1a1a1;
+  box-shadow: inset 0 0 5px #a1a1a1;
   border-radius: 10px;
   margin: 10% auto;
 }
@@ -45,5 +46,5 @@ a:hover {
 }
 
 form {
-  
+
 }
